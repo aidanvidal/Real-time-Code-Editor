@@ -1,0 +1,24 @@
+{
+  "name": "code-editor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@teamwork/websocket-json-stream": "github:teamwork/websocket-json-stream",
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "mongodb": "^6.9.0",
+    "sharedb": "^5.0.4",
+    "sharedb-mongo": "^5.0.0",
+    "sharedb-string-binding": "^1.0.0",
+    "socket.io": "^4.8.0",
+    "sqlite3": "^5.1.7",
+    "vm2": "^3.9.19"
+  }
+}
